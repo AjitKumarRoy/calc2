@@ -34,7 +34,7 @@ You can check out the live version of the calculator here: [Calculator App](http
 - JavaScript for the logic.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 
 ## Contributing
