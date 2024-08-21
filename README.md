@@ -16,7 +16,7 @@ You can check out the live version of the calculator here: [Calculator App](http
 ## Installation
 1. Clone the repository:
    ````bash
-   git clone https://ajitkumarroy.github.io/calc2/
+   git clone https://github.com/AjitKumarRoy/calc2
 2. Navigate to the project directory:
    ````bash
    cd calc2
